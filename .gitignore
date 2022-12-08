@@ -1,2 +1,3 @@
  /target/
-/src/main/resources/output/
+/src/main/resources/output/**.xml
+/src/main/resources/output/**.json
