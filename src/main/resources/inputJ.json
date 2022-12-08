@@ -1,0 +1,61 @@
+[
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Max",
+    "last_name": "Maximov",
+    "type": "SPEEDING",
+    "fine_amount": 3560.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Sergey",
+    "last_name": "Sergeyevich",
+    "type": "PARKING IN THE WRONG PLACE",
+    "fine_amount": 3210.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Oleg",
+    "last_name": "Olegovich",
+    "type": "PARKING IN THE WRONG PLACE",
+    "fine_amount": 1300.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "PARKING IN THE WRONG PLACE",
+    "fine_amount": 3400.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Max",
+    "last_name": "Maximov",
+    "type": "PARKING IN THE WRONG PLACE",
+    "fine_amount": 3560.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Sergey",
+    "last_name": "Sergeyevich",
+    "type": "SPEEDING",
+    "fine_amount": 3210.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Oleg",
+    "last_name": "Olegovich",
+    "type": "SPEEDING",
+    "fine_amount": 3010.00
+  }
+]
+
+
+
